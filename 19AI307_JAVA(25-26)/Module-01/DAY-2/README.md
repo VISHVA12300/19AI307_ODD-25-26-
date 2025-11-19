@@ -75,7 +75,7 @@ public class main{
 
 
 ## OUTPUT:
-```
+
 <img width="469" height="212" alt="image" src="https://github.com/user-attachments/assets/cf50c8bb-f940-46f4-812d-5a8334f1413c" />
 
 
@@ -83,3 +83,4 @@ public class main{
 
 ## RESULT:
 Thus, the Java program successfully determines whether Aayush is eligible for the scholarship based on university grading rules.
+
