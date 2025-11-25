@@ -97,7 +97,8 @@ class Library {
 ---
 
 ## OUTPUT:
-![Uploading image.png…]()
+<img width="909" height="549" alt="image" src="https://github.com/user-attachments/assets/a1aae3d3-15b7-4db3-87c9-a5d5fbbd30ef" />
+
 
 
 ---
